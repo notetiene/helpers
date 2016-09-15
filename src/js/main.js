@@ -1,3 +1,5 @@
+/* global TYPES*/
+
 /**
  * @fileOverview This file contains helper functions not related to a
  * specific project.
