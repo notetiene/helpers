@@ -1,5 +1,4 @@
 /* exported ERRORS */
-
 /**
  * @fileOverview This file contains custom errors.
  * @author etienne(etienne@ThinkPax)
